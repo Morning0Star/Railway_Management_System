@@ -1,0 +1,8 @@
+Flask==3.0.2
+Flask-JWT-Extended==4.6.0
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.27
+marshmallow==3.20.2
+python-dotenv==1.0.1
+bcrypt==4.1.2
+Flask-Cors==4.0.0 
